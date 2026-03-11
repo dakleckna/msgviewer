@@ -1,6 +1,4 @@
 #!/bin/bash
-# MSG Viewer — Installer
-# curl -fsSL https://raw.githubusercontent.com/DEIN-USERNAME/msg-viewer/main/install.sh | bash
 
 set -euo pipefail
 
