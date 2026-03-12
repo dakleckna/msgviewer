@@ -1,3 +1,5 @@
+![MSGViewer](https://github.com/dakleckna/msgviewer/blob/main/MSGViewer.png?raw=true)
+
 # Install
 
 ```bash
